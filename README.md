@@ -1,6 +1,6 @@
 # indai
 
-A new Flutter project.
+INDAI mobile app built around the Flutter framework.
 
 ## Getting Started
 
